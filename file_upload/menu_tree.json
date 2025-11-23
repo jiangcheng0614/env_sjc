@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "id": "729635787702214656",
+            "name": "功能说明",
+            "iconUrl": "",
+            "parentId": "0",
+            "previousId": "0",
+            "enable": true,
+            "type": "folder",
+            "docUniqueId": "729635787702214656",
+            "scope": "public",
+            "menuTrees": [
+                {
+                    "id": "729660255754924032",
+                    "name": "触发器",
+                    "iconUrl": "",
+                    "parentId": "729635787702214656",
+                    "previousId": "0",
+                    "enable": true,
+                    "type": "folder",
+                    "docUniqueId": "729660255754924032",
+                    "scope": "all",
+                    "menuTrees": [
+                        {
+                            "id": "729660392657125376",
+                            "name": "webhook触发器",
+                            "iconUrl": "",
+                            "parentId": "729660255754924032",
+                            "previousId": "0",
+                            "enable": true,
+                            "type": "doc",
+                            "slug": "",
+                            "docUniqueId": "729660392657125376",
+                            "scope": "all",
+                            "menuTrees": []
+                        }
+                    ]
+                },
+                {
+                    "id": "729651702478548992",
+                    "name": "JSON 助手",
+                    "iconUrl": "",
+                    "parentId": "729635787702214656",
+                    "previousId": "729660255754924032",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "729651702478548992",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "729651511543779328",
+                    "name": "应用连接器",
+                    "iconUrl": "",
+                    "parentId": "729635787702214656",
+                    "previousId": "729651702478548992",
+                    "enable": true,
+                    "type": "folder",
+                    "docUniqueId": "729651511543779328",
+                    "scope": "all",
+                    "menuTrees": [
+                        {
+                            "id": "887626928975187968",
+                            "name": "测试-添加测试",
+                            "iconUrl": "",
+                            "parentId": "729651511543779328",
+                            "previousId": "0",
+                            "enable": false,
+                            "type": "doc",
+                            "docUniqueId": "887626928975187968",
+                            "scope": "all",
+                            "menuTrees": []
+                        },
+                        {
+                            "id": "887626693033005056",
+                            "name": "测试-添加测试",
+                            "iconUrl": "",
+                            "parentId": "729651511543779328",
+                            "previousId": "887626928975187968",
+                            "enable": false,
+                            "type": "folder",
+                            "docUniqueId": "887626693033005056",
+                            "scope": "all",
+                            "menuTrees": []
+                        },
+                        {
+                            "id": "887625837000724480",
+                            "name": "测试-文档",
+                            "iconUrl": "",
+                            "parentId": "729651511543779328",
+                            "previousId": "887626693033005056",
+                            "enable": false,
+                            "type": "doc",
+                            "docUniqueId": "887625837000724480",
+                            "scope": "all",
+                            "menuTrees": []
+                        },
+                        {
+                            "id": "887619940708425728",
+                            "name": "测试",
+                            "iconUrl": "",
+                            "parentId": "729651511543779328",
+                            "previousId": "887625837000724480",
+                            "enable": false,
+                            "type": "folder",
+                            "docUniqueId": "887619940708425728",
+                            "scope": "all",
+                            "menuTrees": [
+                                {
+                                    "id": "887623257289854976",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "0",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623257289854976",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623213870419968",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623257289854976",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623213870419968",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623187496636416",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623213870419968",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623187496636416",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623185942093824",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623187496636416",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623185942093824",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623111491653632",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623185942093824",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623111491653632",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623108162920448",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623111491653632",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623108162920448",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623053322395648",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623108162920448",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623053322395648",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                },
+                                {
+                                    "id": "887623034660392960",
+                                    "name": "测试-添加测试",
+                                    "iconUrl": "",
+                                    "parentId": "887619940708425728",
+                                    "previousId": "887623053322395648",
+                                    "enable": false,
+                                    "type": "folder",
+                                    "docUniqueId": "887623034660392960",
+                                    "scope": "all",
+                                    "menuTrees": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "729641610180501504",
+                    "name": "HTTP请求",
+                    "iconUrl": "",
+                    "parentId": "729635787702214656",
+                    "previousId": "729651511543779328",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "729641610180501504",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "729635954313338880",
+                    "name": "分支",
+                    "iconUrl": "",
+                    "parentId": "729635787702214656",
+                    "previousId": "729641610180501504",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "729635954313338880",
+                    "scope": "all",
+                    "menuTrees": []
+                }
+            ]
+        },
+        {
+            "id": "847415711076282368",
+            "name": "对话操作屏幕",
+            "iconUrl": "",
+            "parentId": "0",
+            "previousId": "729635787702214656",
+            "enable": true,
+            "type": "folder",
+            "docUniqueId": "847415711076282368",
+            "scope": "all",
+            "menuTrees": [
+                {
+                    "id": "848562105989255168",
+                    "name": "界面智能体",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "0",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848562105989255168",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "848436366561632256",
+                    "name": "自定义操作屏幕(AI)",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "848562105989255168",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848436366561632256",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "848516121774989312",
+                    "name": "处理验证码(AI)",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "848436366561632256",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848516121774989312",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "848494437775958016",
+                    "name": "提取屏幕数据(AI)",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "848516121774989312",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848494437775958016",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "848515724745367552",
+                    "name": "填写表单(AI)",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "848494437775958016",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848515724745367552",
+                    "scope": "all",
+                    "menuTrees": []
+                },
+                {
+                    "id": "848516155161649152",
+                    "name": "IF 屏幕满足条件(AI)",
+                    "iconUrl": "",
+                    "parentId": "847415711076282368",
+                    "previousId": "848515724745367552",
+                    "enable": true,
+                    "type": "doc",
+                    "slug": "",
+                    "docUniqueId": "848516155161649152",
+                    "scope": "all",
+                    "menuTrees": []
+                }
+            ]
+        }
+    ],
+    "code": 200,
+    "success": true,
+    "requestId": "4f0a4ef2-0c80-4b2b-80e2-d79d0f90559d"
+}
